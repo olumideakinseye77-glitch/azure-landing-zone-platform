@@ -1,5 +1,8 @@
 # Azure Landing Zone & Self-Service Platform
 
+[Portfolio home](https://github.com/olumideakinseye77-glitch/it-cloud-portfolio) · [All Azure projects](https://github.com/olumideakinseye77-glitch/it-cloud-portfolio/tree/main/azure-projects)
+
+
 ## Purpose
 I am building this project to challenge myself with reusable Terraform,
 Azure governance and controlled self-service deployments.
